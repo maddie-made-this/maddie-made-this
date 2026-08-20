@@ -6,7 +6,7 @@ These days that means SQL, data modeling, and reporting at work, and building LL
 
 ### What I do now
 
-IT Manager at a Louisville landscaping company. I'm the entire technical function, which covers the database, the reporting, the Microsoft 365 environment, and the website.
+IT Analyst at a Louisville landscaping company. I'm the entire technical function, which covers the database, the reporting, the Microsoft 365 environment, and the website.
 
 Most of the job is answering questions the books can't. Their accounting lives in QuickBooks, which is fine for invoicing and no help with what the owner actually asks: why one property eats twice the crew hours of a comparable one, how much non-billable time is coming out of the margin, how to split hours between contract work and side jobs when a crew does both on the same visit. So I built a PostgreSQL database of clients and jobs that models labor hours against revenue, and the analysis comes out of there.
 
